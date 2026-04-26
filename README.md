@@ -1,80 +1,108 @@
-# Cursor IDE and AI Tools Setup Guide
+# Cursor Research Portfolio
 
-## Overview
-This project documents a practical setup process for using Cursor IDE with modern AI coding assistants, specifically Claude and Codex.  
-The goal is to provide a clear, repeatable reference for developers who want a productive local development environment supported by AI for coding, debugging, and documentation tasks.
+This project demonstrates my ability to research, synthesize insights, and use modern tools to understand growth strategies in B2B SaaS.
 
-This README is written as a professional implementation guide that can be reused for onboarding, personal setup, or team standardization.
+---
 
-## Tools
-The following tools are used in this setup:
+## Project Focus
 
-- **Cursor IDE**: AI-native development environment used as the primary editor.
-- **Claude**: AI assistant used for reasoning, code explanation, planning, and implementation support.
-- **Codex**: AI coding assistant used for code generation, refactoring, and technical task execution.
-- **Git**: Version control for tracking setup files and project changes.
-- **Node.js / Python (optional)**: Runtime dependencies depending on project language.
+**Topic Chosen:** B2B SaaS Growth Strategy (Content, Outreach, and Scaling)
 
-## Steps
-Follow these steps to complete the setup:
+I selected this topic to understand how top operators and creators approach growth across multiple channels such as LinkedIn, YouTube, and community-driven platforms.
 
-1. **Install Cursor IDE**
-   - Download and install Cursor from the official website.
-   - Launch Cursor and complete initial editor preferences.
+---
 
-2. **Prepare Your Development Workspace**
-   - Create or clone your project repository.
-   - Open the project folder in Cursor.
-   - Verify terminal access and local toolchain (for example, `git`, `node`, or `python`).
+## Research Objective
 
-3. **Configure AI Access**
-   - Connect supported AI providers or accounts inside Cursor settings.
-   - Ensure Claude and Codex are available as selectable assistants.
-   - Confirm API or account authentication is valid.
+The goal of this project is to:
 
-4. **Set Editor and AI Preferences**
-   - Configure formatting, linting, autosave, and terminal defaults.
-   - Set preferred model behavior based on task type (planning vs implementation).
-   - Enable project-specific guidance (rules, conventions, or prompts if needed).
+* Identify high-signal experts actively practicing growth strategies
+* Analyze real content (not theory)
+* Extract actionable insights that can be used to build a real playbook
 
-5. **Validate the Workflow**
-   - Ask the AI to perform a small coding task in your repository.
-   - Run project checks (build, test, lint) to ensure output quality.
-   - Iterate on prompts and settings until the workflow is stable.
+---
 
-6. **Document and Standardize**
-   - Record final setup choices in project docs.
-   - Share instructions with teammates to ensure consistent onboarding.
+## Experts Selected
 
-## Challenges
-Common challenges encountered during setup:
+I selected 10 experts based on:
 
-- **Authentication issues** when connecting AI providers or accounts.
-- **Model selection confusion** when choosing between assistants for different tasks.
-- **Inconsistent code style** if formatting/linting is not enforced early.
-- **Environment mismatch** across machines (different runtime or tool versions).
-- **Prompt quality variability**, which can affect output reliability.
+* Proven track record in B2B SaaS / growth
+* High-quality, consistent content
+* Practical, execution-focused insights
 
-## Learnings
-Key lessons from this setup process:
+Examples include:
 
-- Clear project conventions significantly improve AI output consistency.
-- Small, testable prompts work better than broad requests.
-- AI tools are most effective when combined with linting, tests, and human review.
-- Early documentation of setup decisions reduces onboarding friction.
-- Claude and Codex complement each other when used for their strengths.
+* Alex Hormozi
+* Gary Vaynerchuk
+* Justin Welsh
+* Neil Patel
+* Sahil Bloom
+
+(Full list available in `/research/sources.md`)
+
+---
+
+## Repository Structure
+
+```bash
+/research
+  ├── linkedin-posts/
+  ├── youtube-transcripts/
+  ├── other/
+  └── sources.md
+```
+
+### LinkedIn Posts
+
+* Curated posts from selected experts
+* Organized by author
+* Includes extracted key insights and patterns
+
+### YouTube Transcripts
+
+* Selected high-value videos
+* Summarized into actionable insights
+* Focus on real-world application
+
+### Other
+
+* Additional notes and cross-analysis
+* Combined insights across multiple sources
+
+---
+
+## Technical Approach
+
+* Content was collected from LinkedIn and YouTube
+* YouTube transcripts were obtained using transcript extraction tools (API-based approach)
+* Data was structured and organized manually for clarity and usability
+
+This approach demonstrates my ability to:
+
+* Work with modern research tools
+* Structure unorganized data
+* Extract meaningful insights efficiently
+
+---
+
+## Key Learnings
+
+* Growth is driven by execution, not ideas
+* Content distribution has shifted from followers → interest-based algorithms
+* Strong offers and positioning are critical for scaling
+* Consistency and iteration outperform perfection
+
+---
 
 ## Conclusion
-A well-configured Cursor environment with Claude and Codex can materially improve development speed and code quality.  
-By pairing AI assistance with strong engineering practices (version control, tests, linting, and documentation), teams can create a reliable and scalable workflow for day-to-day software delivery.
 
-Use this document as a baseline, then adapt it to your stack, security requirements, and team conventions.
+This project reflects my ability to:
 
-## Key Findings
+* Think analytically
+* Work independently
+* Use tools to accelerate research
+* Translate raw content into structured insights
 
-Across all experts, several patterns emerged:
+The collected material can be used as a foundation for building a real-world growth playbook.
 
-- Short-form content performs better  
-- Strong hooks are critical  
-- Consistency is more important than perfection  
-- Clear and simple messaging drives engagement  
+---
