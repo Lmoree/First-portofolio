@@ -69,3 +69,12 @@ A well-configured Cursor environment with Claude and Codex can materially improv
 By pairing AI assistance with strong engineering practices (version control, tests, linting, and documentation), teams can create a reliable and scalable workflow for day-to-day software delivery.
 
 Use this document as a baseline, then adapt it to your stack, security requirements, and team conventions.
+
+## Key Findings
+
+Across all experts, several patterns emerged:
+
+- Short-form content performs better  
+- Strong hooks are critical  
+- Consistency is more important than perfection  
+- Clear and simple messaging drives engagement  
