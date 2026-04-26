@@ -16,9 +16,9 @@ Topic: LinkedIn Organic Content Strategy for B2B SaaS
    Link: https://www.linkedin.com/in/davegerhardt/
    Why: Focuses on B2B marketing strategy and brand-driven content.
 
-4. Kieran Flanagan
-   Link: https://www.linkedin.com/in/kieranflanagan/
-   Why: Shares insights on growth, AI, and modern marketing strategies.
+4. Neil Patel
+   Link: https://www.linkedin.com/in/neilkpatel/
+   Why: Well-known digital marketing expert who consistently shares actionable strategies on SEO, content marketing, and B2B growth.
 
 5. Amanda Natividad
    Link: https://www.linkedin.com/in/amandanat/
@@ -36,10 +36,10 @@ Topic: LinkedIn Organic Content Strategy for B2B SaaS
    Link: https://www.linkedin.com/in/chriswalker171/
    Why: Known for demand generation and B2B growth content.
 
-9. Tasleem Ahmad Fateh
-   Link: https://www.linkedin.com/in/tasleemfateh/
-   Why: Shares real-world insights on LinkedIn growth and personal branding.
+9. Gary Vaynerchuk
+   Link: https://www.linkedin.com/in/garyvaynerchuk/
+   Why: Highly influential entrepreneur who creates engaging content focused on branding, audience growth, and consistent content creation.
 
-10. Guillaume Moubeche
-    Link: https://www.linkedin.com/in/guillaumemoubeche/
-    Why: Founder-led content strategy and B2B outreach expertise.
+10. Sahil Bloom
+    Link: https://www.linkedin.com/in/sahilbloom/
+    Why: Produces clear, structured, and highly engaging content that simplifies complex ideas, making it effective for audience growth and engagement.
