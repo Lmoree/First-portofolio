@@ -107,4 +107,8 @@ The collected material can be used as a foundation for building a real-world gro
 
 ---
 
-Playbook available in /playbook.md
+## Playbook
+
+A structured B2B SaaS growth playbook based on the research is available here:
+
+/playbook.md
