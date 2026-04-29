@@ -106,3 +106,5 @@ This project reflects my ability to:
 The collected material can be used as a foundation for building a real-world growth playbook.
 
 ---
+
+Playbook available in /playbook.md
